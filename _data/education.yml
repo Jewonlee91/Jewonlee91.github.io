@@ -1,0 +1,9 @@
+- layout: left
+  name: 중앙HTA 자바기반 웹개발자 양성
+  dates: 2022.03 ~ 2022.08
+  quote: >
+    이응수 강사님의 자바 웹개발자 교육
+  description: | # this will include new lines to allow paragraphs
+    * Java, Spring을 활용한 웹개발 교육과정
+    * HTML, CSS, Oracle SQL 기본적인 활용 
+    
