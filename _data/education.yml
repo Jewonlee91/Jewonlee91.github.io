@@ -6,4 +6,12 @@
   description: | # this will include new lines to allow paragraphs
     * Java, Spring을 활용한 웹개발 교육과정
     * HTML, CSS, Oracle SQL 기본적인 활용 
+- layout: left
+  name: 정보처리기사 
+  dates: 2022.11
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    * 한국산업인력공단 2022년 기사 실기3회 최종합격 
+    * 정보처리기사 자격증 취득 
     

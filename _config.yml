@@ -3,14 +3,14 @@ repository: Jewonlee91/Jewonlee91.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 0
+# version: 1
 
 # Personal info
 name: 이제원
 title: Java 백엔드 개발자
 email: jewonlee91@gmail.com
 # email_title: Email (Email title override)
-website: https://jewonbugs.tistory.com
+# website: https://jewonbugs.tistory.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -51,8 +51,10 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
-# 자격증 Section
-# _title: 자격증
+# More Section
+# more_title: A Little More About Me
+# more_content: | # this will include new lines to allow paragraphs
+
 
 # Footer
 footer_show_references: true
