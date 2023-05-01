@@ -5,4 +5,12 @@
   quote: >
    흡수식냉동기 연구개발
   description: | # this will include new lines to allow paragraphs
-     * 비개발 경력으로 (주)센추리 냉동공조회사에서 4년 7개월간 연구직으로 근무하였습니다.  
+     * 비개발 경력으로 (주)센추리 냉동공조회사에서 4년 7개월간 연구직으로 근무하였습니다.
+- layout: left
+  company: (주)케이비시스
+  job_title: 솔루션개발팀
+  dates: 2023.01 ~
+  quote: >
+     (주)케이비시스 솔루션개발
+  description: | # this will include new lines to allow paragraphs
+    * 협업 플랫폼 메신저 Cowork 개발을 담당하였습니다.  
