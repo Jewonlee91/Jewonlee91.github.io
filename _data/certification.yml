@@ -1,0 +1,24 @@
+- layout: left
+  name: ADSP
+  dates: 2024.6
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * 한국데이터산업진흥원 2024년 제41회 최종합격 
+    * 데이터분석 준전문가 자격증 취득 
+- layout: left
+  name: SQLD
+  dates: 2024.4
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * 한국데이터산업진흥원 2024년 제52회 최종합격 
+    * SQLD(개발자) 자격증 취득 
+- layout: left
+  name: 정보처리기사 
+  dates: 2022.11
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * 한국산업인력공단 2022년 기사 실기3회 최종합격 
+    * 정보처리기사 자격증 취득 
+
+
+    

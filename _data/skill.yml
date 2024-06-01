@@ -1,9 +1,0 @@
-- layout: left
-  name: Backend
-  description: | # this will include new lines to allow paragraphs
-    * Java, Spring
-    * Spring Boot, Spring MVC
-    * Eclipse
-
-
-
