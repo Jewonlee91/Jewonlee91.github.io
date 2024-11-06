@@ -1,5 +1,12 @@
 - layout: left
-  name: ADSP
+  name: DAsP
+  dates: 2024.10
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * 한국데이터산업진흥원 2024년 제57회 최종합격 
+    * 데이터아키텍처 준전문가 자격증 취득 
+- layout: left
+  name: ADsP
   dates: 2024.6
   quote: >
   description: | # this will include new lines to allow paragraphs
